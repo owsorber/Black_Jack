@@ -1,7 +1,7 @@
 # Black Jack
 AP Computer Science Card Game Project.
 
-#Card Class
+# Card Class
 Provides layout for a Card with number and suit.
 
 # Deck Class
